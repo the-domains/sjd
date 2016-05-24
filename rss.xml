@@ -4,18 +4,25 @@
         <description><![CDATA[sjd]]></description>
         <link>https://thegrid.ai/sjd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 26 Nov 2015 04:05:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2016 16:28:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sjd/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Day 1. Morning 1. </p>]]></description>
+            <link>https://thegrid.ai/sjd/day-1-morning-1/index.html</link>
+            <guid isPermaLink="false">486cea8b-8840-4660-8379-c32141f7d6ff</guid>
+            <pubDate>Tue, 24 May 2016 16:28:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Become an Enterprise Architect with TOGAF 9.1 Part 2]]></title>
-            <description><![CDATA[<article><h1>Become an Enterprise Architect with TOGAF 9.1 Part 2</h1><p>Software architecture certification with TOGAF 9.1 Part 2 exam, to become TOGAF Certified.</p><img src="https://udemy-images.udemy.com/course/200_H/479440_037a_4.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Become an Enterprise Architect with TOGAF 9.1 Part 2</h1><p>Software architecture certification with TOGAF 9.1 Part 2 exam, to become TOGAF Certified.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c2b7994f8a7771adf3eb33f00a887b1aca471d63.jpg"></article>]]></description>
             <link>https://www.udemy.com/togaf-part2/</link>
             <guid isPermaLink="false">1ce47167-1815-4b69-a3a6-bee77df7a40a</guid>
             <pubDate>Thu, 26 Nov 2015 04:05:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Become an Enterprise Architect with TOGAF 9.1 Part 1]]></title>
-            <description><![CDATA[<article><h1>Become an Enterprise Architect with TOGAF 9.1 Part 1</h1><p>Software architecture certification with TOGAF 9.1 Part 1 exam, to become TOGAF Foundation.</p><img src="https://udemy-images.udemy.com/course/200_H/312662_52f1_7.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Become an Enterprise Architect with TOGAF 9.1 Part 1</h1><p>Software architecture certification with TOGAF 9.1 Part 1 exam, to become TOGAF Foundation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f55ffe0f67d6cde5e27c6d655f89ea38488888b.jpg"></article>]]></description>
             <link>https://www.udemy.com/togaf-enterprise-architect/</link>
             <guid isPermaLink="false">a9c61af2-342d-4dd3-a72d-9e6855b3414d</guid>
             <pubDate>Thu, 26 Nov 2015 04:03:56 GMT</pubDate>
